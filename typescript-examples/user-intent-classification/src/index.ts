@@ -180,6 +180,7 @@ async function main() {
     } else {
         console.log("\nCould not classify the query.\n");
     }
+
 }
 
 main();
