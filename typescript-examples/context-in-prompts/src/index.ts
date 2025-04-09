@@ -3,13 +3,9 @@ import {
     GenerativeModel,
     ChatSession,
     SchemaType,
-    Content,
     Part,
     FunctionDeclaration,
-    FunctionDeclarationSchema,
     FunctionResponsePart,
-    GenerateContentResponse,
-    Tool,
     GenerateContentRequest
 } from "@google/generative-ai";
 import * as readline from 'node:readline/promises';
